@@ -1,1 +1,1 @@
-git+https://github.com/Dianamond/galaxybot.git
+git+https://github.com/LaLaLafayettexX9787/galaxybot
