@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const auth = require('./auth.json');
 const PREFIX = "c!"
 
 client.on('ready', () => {
@@ -18,4 +17,4 @@ if (msg.content.startsWith (PREFIX + "hello")) {
 
 });
 
-client.login(auth.token);
+client.login(token);
